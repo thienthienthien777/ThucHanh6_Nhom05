@@ -95,21 +95,6 @@ So sánh hệ thống cơ sở dữ liệu **SQL** và **NoSQL** theo các tiêu
 
 ---
 
-## Yêu cầu nộp bài
-
-Báo cáo tối thiểu 2 trang gồm:
-- Câu hỏi nghiên cứu và chiến lược tìm kiếm  
-- Bảng đánh giá CRAAP  
-- Tổng hợp so sánh SQL và NoSQL  
-- Danh sách tài liệu tham khảo (trích dẫn kiểu IEEE)  
-
-Tên file nộp:
-- BUOI06_MSSV_Họ_và_Tên.xlsx  
-- BUOI06_MSSV_Họ_và_Tên.accdb  
-- BUOI06_MSSV_Họ_và_Tên.docx  
-
----
-
 ## Kết quả đạt được
 - Tạo và quản lý cơ sở dữ liệu nhiều bảng  
 - Thực hiện truy vấn và lọc dữ liệu theo điều kiện  
